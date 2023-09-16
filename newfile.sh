@@ -1,2 +1,3 @@
-cat > new.sh
+touch Assignment1.txt
+rm new.sh
 ls
