@@ -1,2 +1,2 @@
-touch NewFile1.txt
-touch 
+cat > new.sh
+ls
