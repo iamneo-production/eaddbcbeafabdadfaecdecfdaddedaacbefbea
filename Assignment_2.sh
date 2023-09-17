@@ -1,4 +1,6 @@
 #!/bin/bash
-cat > sample.txt Hi Hello How are you
-pleae hep
-]
+cat > sample.txt <<- "EOF"
+hi
+hello
+how are you??
+EOF
